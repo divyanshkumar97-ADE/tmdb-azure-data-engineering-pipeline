@@ -1,0 +1,17 @@
+tmdb-azure-data-engineering-pipeline/
+│
+├── adf/
+│   └── pipelines/
+│       └── tmdb_ingestion_pipeline.json
+│
+├── databricks/
+│   ├── silver_movies.py
+│   ├── gold_movies.sql
+│
+├── powerbi/
+│   └── tmdb_movies_dashboard.pbix
+│
+├── architecture/
+│   └── architecture_diagram.png
+│
+└── README.md
